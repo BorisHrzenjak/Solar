@@ -24,6 +24,24 @@ py -m http.server 8000
 
 Open `http://localhost:8000/Solar%20System%20Simulation.html` in your browser
 
+## Deployment
+### Vercel
+This project is configured for easy deployment to Vercel:
+
+1. Connect your GitHub repository to Vercel
+2. Vercel will automatically detect and deploy the project
+3. The deployment uses `index.html` as the entry point
+4. Configuration is managed by `vercel.json`
+
+You can also deploy directly from the command line:
+```bash
+# Install Vercel CLI (if not already installed)
+npm install -g vercel
+
+# Deploy to Vercel
+vercel
+```
+
 ## Technologies
 - Three.js
 - HTML5 Canvas
