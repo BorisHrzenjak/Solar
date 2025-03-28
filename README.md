@@ -1,6 +1,7 @@
 # Solar System Simulation
 
-![image](https://github.com/user-attachments/assets/85b30d6f-920b-4ed3-ada5-a8148026512b)
+![image](https://github.com/user-attachments/assets/e2df62e7-d2a9-48e4-90d1-ff44178487c8)
+
 
 
 A 3D interactive simulation of our solar system built with Three.js
